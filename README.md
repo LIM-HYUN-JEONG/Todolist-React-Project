@@ -3,7 +3,9 @@
 # < 🗒 페이지 주소 >
 https://todolist-react-project.web.app/
 
-COLOR = 🟪2022 PANTONE COLOR� "VERY PERI"🟪 (#7173c) <br />
+## COLOR  <br />
+ 🟪 2022 PANTONE COLOR "VERY PERI" (#7173c) 🟪 <br />
+ <br />
 "새로운 시각과 비전을 가져옴과 동시에 레드퍼플이 가미된 블루인 VERY PERI는 용기있는 창의성과 상상력을 북돋아주는 활기차고 쯜거운 태도와 역동적인 존재감을 보여준다" <br />
 라는 말이 와닿아서 선택하였습니다.
 
