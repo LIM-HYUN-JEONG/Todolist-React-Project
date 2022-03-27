@@ -1,0 +1,11 @@
+@import url("https://fonts.googleapis.com/css2?family=Do+Hyeon&display=swap");
+.add-todo-btn {
+  padding-left: 15px;
+  cursor: pointer;
+  font-size: 4rem;
+  color: #7173c9;
+}
+
+body {
+  font-family: "Do Hyeon", sans-serif;
+}
