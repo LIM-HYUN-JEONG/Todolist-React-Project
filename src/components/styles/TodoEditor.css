@@ -1,0 +1,73 @@
+.background {
+  position: fixed;
+  z-index: 980;
+  top: 0;
+  overflow: hidden;
+  width: 100vw;
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background: darkgray;
+  opacity: 0.85;
+}
+
+form {
+  margin-left: 20%;
+  top: 30%;
+  position: fixed;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  z-index: 990;
+  width: 65vw;
+  height: 150px;
+  border-radius: 5px;
+  box-shadow: 2px 3px 6px 2px #7173c9;
+  background: white;
+}
+@import url("https://fonts.googleapis.com/css2?family=Do+Hyeon&display=swap");
+form > textarea {
+  resize: none;
+  background: none;
+  outline: none;
+  border: none;
+  border-bottom: 1px solid #7173c9;
+  width: 45vw;
+  padding: 0.5rem;
+  font-size: 1.5rem;
+  height: 30px;
+  line-height: 1.5;
+  font-family: "Do Hyeon", sans-serif;
+}
+
+form > button {
+  padding-top: 20px;
+  background: none;
+  outline: none;
+  border: none;
+  color: #7173c9;
+  padding-left: 1rem;
+  padding-right: 1rem;
+  font-size: 1.5rem;
+  display: flex;
+  align-items: center;
+  cursor: pointer;
+}
+
+.edit > svg {
+  padding-top: 20px;
+  color: #7173c9;
+  padding-left: 1rem;
+  padding-right: 1rem;
+  font-size: 1.5rem;
+}
+
+.add {
+  padding-top: 20px;
+  color: #7173c9;
+  padding-left: 1rem;
+  padding-right: 1rem;
+  font-size: 2rem;
+}
